@@ -1,0 +1,39 @@
+{
+  "name": "sentinelauth",
+  "version": "1.0.0",
+  "description": "Official Node.js SDK for SentinelAuth — SMS, Email OTP & 2FA / TOTP Authentication API",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node examples/quickstart.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SentinelAuth12/sentinelauth-node-sdk.git"
+  },
+  "keywords": [
+    "sentinelauth",
+    "2fa",
+    "mfa",
+    "authentication",
+    "sms",
+    "otp",
+    "nodejs",
+    "australia",
+    "security",
+    "totp",
+    "authenticator"
+  ],
+  "author": "SentinelAuth <support@sentinelauth.com.au>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SentinelAuth12/sentinelauth-node-sdk/issues"
+  },
+  "homepage": "https://sentinelauth.com.au"
+}
